@@ -35,4 +35,5 @@ int main() {
 	cout << hi.ProcessInputData(tmp1);
 	cin >> tmp1;
 	cout << hi.ProcessInputData(tmp1);
+	return 0;
 }
